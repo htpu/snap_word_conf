@@ -1,5 +1,5 @@
 {
-    "ISEE Lower": "https://barry-app-settings.s3.amazonaws.com/snap-word/vocabulary_data_lower_level.csv",
-    "ISEE Middle": "https://barry-app-settings.s3.amazonaws.com/snap-word/vocabulary_data_middle_level.csv",
-    "ISEE Upper": "https://barry-app-settings.s3.amazonaws.com/snap-word/vocabulary_data_upper_level.csv"
+    "ISEE Lower": "https://raw.githubusercontent.com/htpu/snap_word_conf/vocabulary_data_lower_level.csv",
+    "ISEE Middle": "https://raw.githubusercontent.com/htpu/snap_word_conf/vocabulary_data_middle_level.csv",
+    "ISEE Upper": "https://raw.githubusercontent.com/htpu/snap_word_conf/vocabulary_data_upper_level.csv"
 }
