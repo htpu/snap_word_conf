@@ -1,5 +1,6 @@
 {
     "ISEE Lower": "https://raw.githubusercontent.com/htpu/snap_word_conf/vocabulary_data_lower_level.csv",
     "ISEE Middle": "https://raw.githubusercontent.com/htpu/snap_word_conf/vocabulary_data_middle_level.csv",
-    "ISEE Upper": "https://raw.githubusercontent.com/htpu/snap_word_conf/vocabulary_data_upper_level.csv"
+    "ISEE Upper": "https://raw.githubusercontent.com/htpu/snap_word_conf/vocabulary_data_upper_level.csv",
+    "SAT 1000":"https://raw.githubusercontent.com/htpu/snap_word_conf/main/vocabulary_data_sat_1000.csv"
 }
