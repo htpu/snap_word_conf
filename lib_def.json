@@ -1,0 +1,5 @@
+{
+    "ISEE Lower": "https://barry-app-settings.s3.amazonaws.com/snap-word/vocabulary_data_lower_level.csv",
+    "ISEE Middle": "https://barry-app-settings.s3.amazonaws.com/snap-word/vocabulary_data_middle_level.csv",
+    "ISEE Upper": "https://barry-app-settings.s3.amazonaws.com/snap-word/vocabulary_data_upper_level.csv"
+}
